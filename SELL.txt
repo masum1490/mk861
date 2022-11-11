@@ -4,7 +4,7 @@ sojib - free - key - sojib -id - 56d560e874f25df56ef50ca619f417fc
 gaffar - free - key - gaffar - id - 4459569e5555ca909b9d40fcb25962d5 - phn - 01763744717 08-11-2022
 jewel - free - key - jewel - id -d0d4ed445d276931af5a7f5c7f532aba - phn - 01763698609  08-11-2022
  saimun -free - key - saimun  - id - 719a153379a41d61ace1ef405e65f6b2 - phn - 01643032647  08-11-2022
- munna  -free - key - munna - id - 3d46527f016a1766c943951ab060738b -phn - 01756881224  08-11-2022
+ munna  -free - key - munna - id - 3d46527f016a1766c943951ab060738b -phn - 01756881224  08-11-2022-5
 sayeem - free - key - sayeem - id - 1287804113fb0330be3f1047415b18f4 -phn - 01720681079  08-11-2022
 aslam - free - key - aslam - id - bdf582288c025eb3dc58414be1234773 -phn - 01706185883  08-11-2022
 rayhan - free - key - rayhan - id - da4771e56be6739523b2b9af438b8b0a - phn - 01834153543 - 08-11-2022
@@ -13,8 +13,8 @@ sohanur - free - key - sohanur - id - 862fbdc2edf7b4c6f4dafbd04d5627a9 - phn - 0
 abu nayeem - sell 1k - key - abu nayeem - id - 3f838ce0db80eea8c95bb75b72e1b615 - phn - 01789725926 - 08-11-2022................30 days
 shagor - free - key - shagor - id - d3d65eaf861e881071e9f4a5d2e45269 - phn - 01969166827 - 08-11-2022-1
 neshad - free - key - neshad - id - df1ccb23490baa126e96d9c384ce4f74 - phn - 01763841526 - 08-11-2022-1
-najmul - free - key - najmul - id - fe4ac89c09006bb8bbaccb8e9c421268 - phn - 01797204972 - 08-11-2022-pblm
-saeem - free - key - saeem - id - fe4ac89c09006bb8bbaccb8e9c421268 - phn - 01705328660 - 08-11-2022-pblm
+najmul - free - key - najmul - id - fe4ac89c09006bb8bbaccb8e9c421268 - phn - 01797204972 - 08-11-2022-5-pblm
+saeem - free - key - saeem - id - fe4ac89c09006bb8bbaccb8e9c421268 - phn - 01705328660 - 08-11-2022-5-pblm
 rabby - free - key - rabby - id - 32c8d21acfc4bdc80fc1ae12f08ba74a
 mim1 - free - key -mim1 - id - 232e2572ceb9091aa62b7333190be589
 kafi - free - key - kafi - id - 8e2778ecff94646ba1c0442eb77daf18 - phn - 01711701536 - 09-11-2022-2
@@ -36,7 +36,7 @@ limon - free - key - limon - id - 9a0dc10eb9091825041c07279e8b40be - phn - 01773
 rasel - free - key - rasel - id - 3e29cb2c24ca4c0936d4596986f493f0 - phn - 01773630590 - 11-11-2022-4
 megh - free - key - megh - id - dcead138a7e26f584d7e06d3cfed93d6 - phn - 01793906071 - 11-11-2022
 azizul - free - key - azizul - id - e888b803b1833e74a1383630b02f3b70 - phn - 01871300938 - 11-11-2022
- - free - key -  - id -  - phn -  - 11-11-2022
+akash- free - key - akash - id -  - phn - 01796198013 - 11-11-2022-5
  - free - key -  - id -  - phn -  - 11-11-2022
  - free - key -  - id -  - phn -  - 11-11-2022
  - free - key -  - id -  - phn -  - 11-11-2022
