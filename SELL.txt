@@ -48,7 +48,7 @@ farzia - free - key - farzia - id - fe4ac89c09006bb8bbaccb8e9c421268 - phn - 017
 palash - free - key - palash - id - 18d44f9e145ebae3ca71246ffc0ddfdf - phn - 01986864426 - 11-11-2022-1
 tapon - free - key - tapon - id - ed62a6ec91186edbd8fbecaaa042b6af - phn - 01757792582 - 14-11-2022-1
 ruhan - free - key - ruhan - id - 93700a2062c5b9bdcb82ba0ff9d7ef63 - phn - 01818562376 - 15-11-2022
-shanto - sell 1k - key - shanto - id - f9b9d408b96d26f2b92781a21e529f42 - phn - 01980589152 - 11-11-2022
+shanto - sell 800 - key - shanto - id - f9b9d408b96d26f2b92781a21e529f42 - phn - 01980589152 - 11-11-2022-special
  - free - key -  - id -  - phn -  - 11-11-2022
  - free - key -  - id -  - phn -  - 11-11-2022
  - free - key -  - id -  - phn -  - 11-11-2022
