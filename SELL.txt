@@ -9,4 +9,4 @@ mim5 - free - key - mim5 - id - a407e495253fb2a709ea3d5352397156 -
 mim6 - free - key - mim6 - id - fe4ac89c09006bb8bbaccb8e9c421268 - 
 mim7 - free - key - mim7 - id - 41a22f9ec16ec30c22e4bd155cff3618 - 
 mim8 - free - key - mim8 - id - 7c09f5f15aafea41636ca6daaa47e5ca - 
-jihad - sell 1000 - key - jihad - id - 4b5d4e40981cca434bc4a98920df252a - phn -  - 14-11-2022 off
+istiack - sell 1000 - key - istiyack - id - 4b5d4e40981cca434bc4a98920df252a - phn - 01632415803 - 14-11-2022 
