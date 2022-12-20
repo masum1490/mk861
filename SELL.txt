@@ -28,7 +28,7 @@ farhad - sell1000  - key - farhad - id -  - phn - 01620002066 - 09-12-2022 off 0
 babu - sell 1000  - key - babu - id - c7b4aa26c7b04a97dd614d84ce573cca - phn - 01763517489 - 15-12-2022 off 15-01-2023
 jashim - sell 800  - key - jasshim - id - 8e4fe171e847436c933787dd7e1ce8d8 - phn - 01763517489 - 15-12-2022 off 15-01-2023
 razon - sell 1000  - key - razon - id - fe4ac89c09006bb8bbaccb8e9c421268 - phn - 01306074508 - 19-12-2022 off 19-01-2023
- - sell  - key -  - id -  - phn -  - 0-12-2022 off 25-01-2023
+chadni - sell 1000  - key - chadni - id - 95a4f150bd26c476aea77747a00da89e - phn -  - 20-12-2022 off 20-01-2023
  - sell  - key -  - id -  - phn -  - 0-12-2022 off 25-01-2023
  - sell  - key -  - id -  - phn -  - 0-12-2022 off 25-01-2023
  - sell  - key -  - id -  - phn -  - 0-12-2022 off 25-01-2023
