@@ -28,6 +28,6 @@ chadni - sell 1000  - key - chadni - id - 95a4f150bd26c476aea77747a00da89e - phn
 baizid - sell 1000 - key - baizid - id - 0099d29478c38e5271e922b56371befc - phn - 01793860006 - 20-12-2022 off 20-01-2023
 farhan - sell mail 150  - key - farhan - id - 99df5eacdd8e4db1ae9541e337c76d6e - phn - 01971819084 - 20-12-2022 off 20-01-2023
 shagor - sell mail 150  - key - shagor - id - d3d65eaf861e881071e9f4a5d2e45269 - phn - 01969166827 - 21-12-2022 off 21-01-2023
- - sell  - key -  - id -  - phn -  - 0-12-2022 off 25-01-2023
+rabiul - sell 1000  - key - fe4ac89c09006bb8bbaccb8e9c421268 - id - fe4ac89c09006bb8bbaccb8e9c421268 - phn -  - 23-12-2022 off 23-01-2023
 
  
