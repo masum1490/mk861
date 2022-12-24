@@ -30,9 +30,9 @@ shagor - sell mail 150  - key - shagor - id - d3d65eaf861e881071e9f4a5d2e45269 -
 rabiul - sell 1000  - key - fe4ac89c09006bb8bbaccb8e9c421268 - id - fe4ac89c09006bb8bbaccb8e9c421268 - phn -  - 23-12-2022 off 23-01-2023
 shaikat - sell mail 150 - key - saikat - id - fa1cb2dfa46b945c8d273c585af66c3b - phn - 01409712622  - 23-12-2022 off 23-01-2023
 shahin - sell mail 75  - key - shahin - id - 6b269c9230defd91e244ebf4ec718ee3 - phn - 01303289465 - 23-12-2022 off 23-01-2023
- jony - frx - key - jony - id - fe4ac89c09006bb8bbaccb8e9c421268
- habib - sell 500 - key - habib - id - db35a698002e40ceb1a99e4c602913e3 - phn - 01581090482 - 24-12-2022  off 24-01-2023
- - sell   - key -  - id -  - phn -  - 23-12-2022 off 23-01-2023
+jony - frx - key - jony - id - fe4ac89c09006bb8bbaccb8e9c421268
+habib - sell 500 - key - habib - id - db35a698002e40ceb1a99e4c602913e3 - phn - 01581090482 - 24-12-2022  off 24-01-2023
+zahid - sell 1000   - key -  - id -  - phn - 01785086816 - 24-12-2022 off 24-01-2023
  - sell   - key -  - id -  - phn -  - 23-12-2022 off 23-01-2023
  - sell   - key -  - id -  - phn -  - 23-12-2022 off 23-01-2023
  
