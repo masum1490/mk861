@@ -33,7 +33,6 @@ liton - trail   - key - liton - id - 93a60a47a2d36d2c32b294d4dafd4185
 jihad -id-a03af2da265796b5ce5ed0a6c51fdd3a-phn-01316014997- 24-12-2022-7 days
 zahid - sell 1000 - key - zahid - id - ab745ff2f2adbd10769f26e2fb6141a7 - phn - 01785086816 - 24-12-2022 off 24-01-2023
 istiack - sell mail 150 - key - istiyack - id - dc415c3dff14518568fd2daea9d93d91 - phn - 01632415803 - 24-12-2022 off 24-01-2023
-jihad -id-a03af2da265796b5ce5ed0a6c51fdd3a-phn-01316014997- 24-12-2022-7 days
 tushar - sell 1000 - key - tushar - id - fe4ac89c09006bb8bbaccb8e9c421268 - phn -  - 24-11-2022  off 24-12-2022
  - sell   - key -  - id -  - phn -  - 23-12-2022 off 23-01-2023
  - sell   - key -  - id -  - phn -  - 23-12-2022 off 23-01-2023
