@@ -30,7 +30,7 @@ shahin - sell mail 75  - key - hjythg - id - 6b269c9230defd91e244ebf4ec718ee3 - 
 jony - frx - key- hjyfgh - jony - id - fe4ac89c09006bb8bbaccb8e9c421268
 habib - sell 500 - key - hjyfgj - id - db35a698002e40ceb1a99e4c602913e3 - phn - 01581090482 - 24-12-2022  off 24-01-2023
 liton - trail   - key - hjythg - id - 93a60a47a2d36d2c32b294d4dafd4185 
-jihad -frx key - hjygfh -id-a03af2da265796b5ce5ed0a6c51fdd3a-phn-01316014997- 24-12-2022-7 days
+jihad -frx key - hjygfh -id-a03af2da265796b5ce5ed0a6c51fdd3a-phn-01316014997- 24-12-2022-                                             7 days
 zahid - sell 1000 - key - jghjyd - id - ab745ff2f2adbd10769f26e2fb6141a7 - phn - 01785086816 - 24-12-2022 off 24-01-2023
 istiack - sell mail 150 - key - hgjyds - id - dc415c3dff14518568fd2daea9d93d91 - phn - 01632415803 - 24-12-2022 off 24-01-2023
 tushar - sell 1000 - key - tushar - id - fe4ac89c09006bb8bbaccb8e9c421268 - phn -  - 24-12-2022  off 24-01-2023
