@@ -20,7 +20,6 @@ jashim - sell 800  - key - hjythj - id - 8e4fe171e847436c933787dd7e1ce8d8 - phn 
 razon - sell 1000  - key - fgrsaa - id - fe4ac89c09006bb8bbaccb8e9c421268 - phn - 01306074508 - 19-12-2022 off 19-01-2023
 chadni - sell 1000  - key - jyghjf - id - 95a4f150bd26c476aea77747a00da89e - phn -  - 20-12-2022 off 20-01-2023
 baizid - sell 1000 - key - jkuhgg - id - 0099d29478c38e5271e922b56371befc - phn - 01793860006 - 20-12-2022 off 20-01-2023
-farhan - sell mail 150  - key - jkughj - id - 99df5eacdd8e4db1ae9541e337c76d6e - phn - 01971819084 - 20-12-2022 off 20-01-2023
 shagor - sell mail 150  - key - hjuygf - id - d3d65eaf861e881071e9f4a5d2e45269 - phn - 01969166827 - 21-12-2022 off 05-01-2023          15 days
 rabiul - sell 1000  - key - ghtyfd - id - fe4ac89c09006bb8bbaccb8e9c421268 - phn -  - 23-12-2022 off 23-01-2023
 shaikat - sell mail 150 - key - hgjyth - id - fa1cb2dfa46b945c8d273c585af66c3b - phn - 01409712622  - 23-12-2022 off 23-01-2023
