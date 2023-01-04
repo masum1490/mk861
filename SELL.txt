@@ -36,5 +36,5 @@ liton1 - sell    - key - liton1 - id - 3570d3e53ce520c2bb3b8f05b98d62d2 - phn - 
 liton2 - sell    - key - liton2 - id - 400bd58d11605e407aaeb74c01502bd0 - phn -  - -02-2022 off 02-02-2023
 liton3 - sell    - key - liton3 - id - fe4ac89c09006bb8bbaccb8e9c421268 - phn -  - 02 -02-2022 off 02-02-2023
 amit - sell 1000 - key - hjytdf - id - 06de80bef879e42d25dd876d6addd904 - phn - 01934809422 - 02-02-2022 off 02-02-2023
- - sell    - key -  - id -  - phn -  - -01-2022 off 29-02-2023
+shafiq - sell 1000 - key - jhhgjt - id - e5fbf14896dcb9be92f1ecb81fdebc74 - phn - 01911224881 - 04-01-2022 off 04-02-2023
  
