@@ -33,8 +33,8 @@ liton3 - sell    - key - liton3 - id - fe4ac89c09006bb8bbaccb8e9c421268 - phn - 
 amit - sell 900 - key - hjytdf - id - 06de80bef879e42d25dd876d6addd904 - phn - 01934809422 - 02-02-2022 off 02-02-2023
 shafiq - sell 1000 - key - jhhgjt - id - e5fbf14896dcb9be92f1ecb81fdebc74 - phn - 01911224881 - 04-01-2022 off 04-02-2023
 ayon - sell mail 150  - key - wrgdas - id - 9f7a63f798dfae699f9e45617e234659 - phn - 01768648938 - 04-01-2022 off 04-02-2023
-tushar2 - sell 900 - key - ytgfds - id - e13109a528d27e87366e1b2aed90f730 - phn - 01934809422 - 04-01-2022 off 04-02-2023
- - sell  - key -  - id -  - phn -  - 04-01-2022 off 04-02-2023
+alia - sell 900 - key - ytgfds - id - e13109a528d27e87366e1b2aed90f730 - phn - 01979809422 - 04-01-2022 off 04-02-2023
+ruhi - sell  - key -  - id -  - phn - 01763562763 - 05-01-2022 off 05-02-2023
  - sell  - key -  - id -  - phn -  - 04-01-2022 off 04-02-2023
  - sell  - key -  - id -  - phn -  - 04-01-2022 off 04-02-2023
  - sell  - key -  - id -  - phn -  - 04-01-2022 off 04-02-2023
