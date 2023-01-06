@@ -1,6 +1,5 @@
 xd - free - key - masum - id - 9829e43cc275d7665a3769f14d523266 - 
 xd - free - key - masum2 - id - ec9bf4c1033ff4b9f23199fda094c01e -
-kabir - sell1000  - key - hjygfd - id - 692e51d561e34b2b030a515abf2e5357 - phn - 01912891901 - 05-12-2022 off 05-01-2023
 razu - sell  - key - kuyhgg - id - a30461d4163c56c3d40e68cf4b232450 - phn - 01303342451 - 07-12-2022 off 07-01-2023
 farhad - sell1000  - key - uumfgb - id - aaf7037b6bb2e40fc8970dd19dbd2b8b - phn - 01620002066 - 09-12-2022 off 09-01-2023
 shanto - sell 800 - key - hjyugf - id - f9b9d408b96d26f2b92781a21e529f42 - phn - 01980589152 - 14-12-2022 off 14-01-2023
@@ -37,6 +36,7 @@ alia - sell 900 - key - ytgfds - id - e13109a528d27e87366e1b2aed90f730 - phn - 0
 ruhi - sell 900 - key - ghjtds - id - a1064a7f69f210e00f39c0008d4f30a7 - phn - 01763562763 - 05-01-2022 off 05-02-2023
 anik - sell mail 75  - key - mjdyus - id - c4594bdf1d1599736b3931cc34bd1b57 - phn - 01966617941 - 04-01-2022 off 04-02-2023          15 days
 bappy - key - bappy - id - ab663901f88a1a3e4b1c094ffdd47602 
+kabir - sell mail 150  - key - hjygfd - id - 692e51d561e34b2b030a515abf2e5357 - phn - 01912891901 - 05-01-2022 off 05-02-2023
  - sell  - key -  - id -  - phn -  - 04-01-2022 off 04-02-2023
  - sell  - key -  - id -  - phn -  - 04-01-2022 off 04-02-2023
  - sell  - key -  - id -  - phn -  - 04-01-2022 off 04-02-2023
