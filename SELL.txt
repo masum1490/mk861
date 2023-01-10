@@ -46,7 +46,7 @@ Nafiz - sell 1000 - key - oirtkd - id - ebeb03ee0d910ebe7dbb9f0f70b3baa2 - phn -
 jkhufd - himel - id -  521ec67f03c022c84943a0a3e3641fa7
 jubayer - sell 1000 - key - dsgfdg - id - a71be48a0bb0e597d7c9d9e3fb601db3 - phn - 01968289103 - 09-01-2022 off 09-02-2023
 Emon - frx - key - uyjhgh - id - 2cb9de0831f0e1f0e0bb619006a637d0 - phn - 01760499299 - 10-01-2022 off 10-02-2023                        30 days            jony
- - sell  - key -  - id -  - phn -  - 04-01-2022 off 04-02-2023
+ - frx - key -  - id -  - phn -  - 04-01-2022 off 04-02-2023
  - sell  - key -  - id -  - phn -  - 04-01-2022 off 04-02-2023
  - sell  - key -  - id -  - phn -  - 04-01-2022 off 04-02-2023
  - sell  - key -  - id -  - phn -  - 04-01-2022 off 04-02-2023
