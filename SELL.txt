@@ -44,7 +44,6 @@ bappy - himel - id - ab663901f88a1a3e4b1c094ffdd47602
 kabir - sell mail 150  - key - hjygfd - id - 692e51d561e34b2b030a515abf2e5357 - phn - 01912891901 - 05-01-2022 off 05-02-2023
 Nafiz - sell 1000 - key - oirtkd - id - ebeb03ee0d910ebe7dbb9f0f70b3baa2 - phn - 01709958084 - 06-01-2022 off 06-02-2023
 jkhufd - himel - id -  521ec67f03c022c84943a0a3e3641fa7
- - sell  - key -  - id -  - phn -  - 04-01-2022 off 04-02-2023
 jubayer - sell 1000 - key - dsgfdg - id - a71be48a0bb0e597d7c9d9e3fb601db3 - phn - 01968289103 - 09-01-2022 off 09-02-2023
  - sell  - key -  - id -  - phn -  - 04-01-2022 off 04-02-2023
  - sell  - key -  - id -  - phn -  - 04-01-2022 off 04-02-2023
