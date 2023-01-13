@@ -27,33 +27,38 @@ limon - frx - key - hjytds - id - e444de50d1459900a7e78f19c6930a6a - phn - 01621
 Mehedi - frx  - key - pghfgf - id - fe4ac89c09006bb8bbaccb8e9c421268 - phn - 01873581401 - 29-12-2022 off 05-01-2023                  30 days                  jony
 ovi - sell 1000   - key - gjhytd - id - 133cc69bbe5e2cda4c13a5710568c56e - phn - 01735665887 - 30-12-2022 off 30-01-2023 
 hera - sell 1000   - key - uyijff - id - 70aef0792feb056c5dde53fecebb214a - phn - 01867058535 - 02-01-2022 off 02-01-2023
-tushar - sell 1000 - key - jkydds - id - fe4ac89c09006bb8bbaccb8e9c421268 - phn -  - 24-12-2022  off 24-01-2023
-liton1 - sell    - key - liton1 - id - 3570d3e53ce520c2bb3b8f05b98d62d2 - phn -  - 02-01-2022 off 02-02-2023
-liton2 - sell    - key - liton2 - id - 400bd58d11605e407aaeb74c01502bd0 - phn -  - -02-2022 off 02-02-2023
-liton3 - sell    - key - liton3 - id - fe4ac89c09006bb8bbaccb8e9c421268 - phn -  - 02 -02-2022 off 02-02-2023
-amit - sell 900 - key - hjytdf - id - 06de80bef879e42d25dd876d6addd904 - phn - 01934809422 - 02-02-2022 off 02-02-2023
-shafiq - sell 1000 - key - jhhgjt - id - e5fbf14896dcb9be92f1ecb81fdebc74 - phn - 01911224881 - 04-01-2022 off 04-02-2023
-ayon - sell mail 150  - key - wrgdas - id - 9f7a63f798dfae699f9e45617e234659 - phn - 01768648938 - 04-01-2022 off 04-02-2023
-alia - sell 900 - key - ytgfds - id - e13109a528d27e87366e1b2aed90f730 - phn - 01979809422 - 04-01-2022 off 04-02-2023
-ruhi - sell 900 - key - ghjtds - id - a1064a7f69f210e00f39c0008d4f30a7 - phn - 01763562763 - 05-01-2022 off 05-02-2023
+tushar - sell 1000 - key - jkydds - id - fe4ac89c09006bb8bbaccb8e9c421268 - phn -  - 24-12-2023  off 24-01-2023
+liton1 - sell    - key - liton1 - id - 3570d3e53ce520c2bb3b8f05b98d62d2 - phn -  - 02-01-2023 off 02-02-2023
+liton2 - sell    - key - liton2 - id - 400bd58d11605e407aaeb74c01502bd0 - phn -  - 02-01-2023 off 02-02-2023
+liton3 - sell    - key - liton3 - id - fe4ac89c09006bb8bbaccb8e9c421268 - phn -  - 02-01-2023 off 02-02-2023
+amit - sell 900 - key - hjytdf - id - 06de80bef879e42d25dd876d6addd904 - phn - 01934809422 - 02-01-2023 off 02-02-2023
+shafiq - sell 1000 - key - jhhgjt - id - e5fbf14896dcb9be92f1ecb81fdebc74 - phn - 01911224881 - 04-01-2023 off 04-02-2023
+ayon - sell mail 150  - key - wrgdas - id - 9f7a63f798dfae699f9e45617e234659 - phn - 01768648938 - 04-01-2023 off 04-02-2023
+alia - sell 900 - key - ytgfds - id - e13109a528d27e87366e1b2aed90f730 - phn - 01979809422 - 04-01-2023 off 04-02-2023
+ruhi - sell 900 - key - ghjtds - id - a1064a7f69f210e00f39c0008d4f30a7 - phn - 01763562763 - 05-01-2023 off 05-02-2023
 bappy - himel - id - ab663901f88a1a3e4b1c094ffdd47602 
-kabir - sell mail 150  - key - hjygfd - id - 692e51d561e34b2b030a515abf2e5357 - phn - 01912891901 - 05-01-2022 off 05-02-2023
-Nafiz - sell 1000 - key - oirtkd - id - ebeb03ee0d910ebe7dbb9f0f70b3baa2 - phn - 01709958084 - 06-01-2022 off 06-02-2023
+kabir - sell mail 150  - key - hjygfd - id - 692e51d561e34b2b030a515abf2e5357 - phn - 01912891901 - 05-01-2023 off 05-02-2023
+Nafiz - sell 1000 - key - oirtkd - id - ebeb03ee0d910ebe7dbb9f0f70b3baa2 - phn - 01709958084 - 06-01-2023 off 06-02-2023
 jkhufd - himel - id -  521ec67f03c022c84943a0a3e3641fa7
-jubayer - sell 1000 - key - dsgfdg - id - a71be48a0bb0e597d7c9d9e3fb601db3 - phn - 01968289103 - 09-01-2022 off 09-02-2023
-Emon - frx - key - uyjhgh - id - 2cb9de0831f0e1f0e0bb619006a637d0 - phn - 01760499299 - 10-01-2022 off 10-02-2023                        30 days            jony
-Emon2 - frx - key - oerjds - id - ba7ed09eebc85e97122126d0c186a29a - phn - 01719952609 - 10-01-2022 off 10-02-2023                        30 days            jony
-Rashed - sell  - key - idsdff - id - 7b124962f678fb611f098aab7f8e0945 - phn - 01643150374 - 11-01-2022 off 11-02-2023
-himal - 1500  - key - ugjytd - id - 0be88a2e8acb30b0f8ef2b957c1c28f5 -  04-01-2022 off 04-02-2023                                        himel
+jubayer - sell 1000 - key - dsgfdg - id - a71be48a0bb0e597d7c9d9e3fb601db3 - phn - 01968289103 - 09-01-2023 off 09-02-2023
+Emon - frx - key - uyjhgh - id - 2cb9de0831f0e1f0e0bb619006a637d0 - phn - 01760499299 - 10-01-2023 ff 10-02-2023                        30 days            jony
+Emon2 - frx - key - oerjds - id - ba7ed09eebc85e97122126d0c186a29a - phn - 01719952609 - 10-01-2023 ff 10-02-2023                        30 days            jony
+Rashed - sell  - key - idsdff - id - 7b124962f678fb611f098aab7f8e0945 - phn - 01643150374 - 11-01-2023 ff 11-02-2023
+himal - 1500  - key - ugjytd - id - 0be88a2e8acb30b0f8ef2b957c1c28f5 -  04-01-2023 off 04-02-2023                                      himel
 mim10 - id - 0ec8b4252232dadb3ea958df5cb1bac7 - 12-01-2023 
 alamin - sell 1000  - key - uihjkh - id - 084e63be9b6ad86de6e62aa39c5ff775 - phn - 01924389288 - 13-01-2023 off 13-02-2023
 sojib - frx  - key - pludhs - id - d859b016226a78fa95872abd70a32879 - phn - 01303206769 - 13-01-2023 off 13-02-2023                       30 days            jony
 mim11 - id - 3a1a97c006b774a99cff4957bc82bea4 - 13-01-2023
 Talha - frx - key - eedfsa - id - a9b68f54d401adb0f1156b9e50b06c8a - phn - 01677171906 - 13-01-2023 off 13-02-2023                        30  days           jony
 arif - sell 1000 - key - ikleas - id - 2e7256aecee0ac7bede564e6886b30d9 - phn - 01728639772 - 13-01-2023 off 13-02-2023
- - sell  - key -  - id -  - phn -  - 04-01-2022 off 04-02-2023
- - sell  - key -  - id -  - phn -  - 04-01-2022 off 04-02-2023
- - sell  - key -  - id -  - phn -  - 04-01-2022 off 04-02-2023
- - sell  - key -  - id -  - phn -  - 04-01-2022 off 04-02-2023
- - sell  - key -  - id -  - phn -  - 04-01-2022 off 04-02-2023
- - sell  - key -  - id -  - phn -  - 04-01-2022 off 04-02-2023
+ - sell  - key -  - id -  - phn -  - 04-01-2023 off 12-02-2023
+ - sell  - key -  - id -  - phn -  - 04-01-2023 off 12-02-2023
+ - sell  - key -  - id -  - phn -  - 04-01-2023 off 12-02-2023
+ - sell  - key -  - id -  - phn -  - 04-01-2023 off 12-02-2023
+ - sell  - key -  - id -  - phn -  - 04-01-2023 off 12-02-2023
+ - sell  - key -  - id -  - phn -  - 04-01-2023 off 12-02-2023
+ - sell  - key -  - id -  - phn -  - 04-01-2023 off 12-02-2023
+ - sell  - key -  - id -  - phn -  - 04-01-2023 off 12-02-2023
+ - sell  - key -  - id -  - phn -  - 04-01-2023 off 12-02-2023
+ - sell  - key -  - id -  - phn -  - 04-01-2023 off 12-02-2023
+
