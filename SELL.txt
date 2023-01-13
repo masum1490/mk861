@@ -9,7 +9,6 @@ mim6 - free - key - mim6 - id - fe4ac89c09006bb8bbaccb8e9c421268 -
 mim7 - free - key - mim7 - id - 41a22f9ec16ec30c22e4bd155cff3618 - 
 mim8 - free - key - mim8 - id - 7c09f5f15aafea41636ca6daaa47e5ca - 
 mim9 - free - key - mim9 - id - d3e18bfecd10f337e84e4809e142b968
-shanto - sell 800 - key - hjyugf - id - f9b9d408b96d26f2b92781a21e529f42 - phn - 01980589152 - 14-12-2022 off 14-01-2023
 babu - sell 1000  - key - jkujgh - id - c7b4aa26c7b04a97dd614d84ce573cca - phn - 01763517489 - 15-12-2022 off 15-01-2023
 jashim - sell 800  - key - hjythj - id - 8e4fe171e847436c933787dd7e1ce8d8 - phn - 01763517489 - 15-12-2022 off 15-01-2023
 razon - sell 1000  - key - fgrsaa - id - fe4ac89c09006bb8bbaccb8e9c421268 - phn - 01306074508 - 19-12-2022 off 19-01-2023
@@ -25,8 +24,7 @@ habib - sell 500 - key - hjyfgj - id - db35a698002e40ceb1a99e4c602913e3 - phn - 
 zahid - sell 1000 - key - jghjyd - id - ab745ff2f2adbd10769f26e2fb6141a7 - phn - 01785086816 - 24-12-2022 off 24-01-2023
 istiack - sell mail 150 - key - hgjyds - id - dc415c3dff14518568fd2daea9d93d91 - phn - 01632415803 - 24-12-2022 off 24-01-2023
 babu2 - sell 1000   - key - sdfgfd - id - 15c6c52fdb2c08a549e2f825baaabefd - phn - 01763517489 - 28-12-2022 off 28-01-2023
-limon - frx - key - hjytds - id - e444de50d1459900a7e78f19c6930a6a - phn - 01621848981 - 28-12-2022 off 04-01-2023                    30 days                  jony
-Mostafigur - frx   - key - uihinj - id - 37e7c62b6ecf78be8bd2d967a681e5b2 - phn - +880 1872-263472 - 29-12-2022 off 05-01-2023        30 days                  jony  
+limon - frx - key - hjytds - id - e444de50d1459900a7e78f19c6930a6a - phn - 01621848981 - 28-12-2022 off 04-01-2023                    30 days                  jony  
 Mehedi - frx  - key - pghfgf - id - fe4ac89c09006bb8bbaccb8e9c421268 - phn - 01873581401 - 29-12-2022 off 05-01-2023                  30 days                  jony
 megh - sell 500 - key - megh - id - dcead138a7e26f584d7e06d3cfed93d6 - phn - 01953474757 - 29-12-2022 off 13-01-2023                  15 days
 ovi - sell 1000   - key - gjhytd - id - 133cc69bbe5e2cda4c13a5710568c56e - phn - 01735665887 - 30-12-2022 off 30-01-2023 
