@@ -17,7 +17,6 @@ baizid - sell 1000 - key - jkuhgg - id - 0099d29478c38e5271e922b56371befc - phn 
 farhan - sell mmail 150 - key - uiikgh - id - fe4ac89c09006bb8bbaccb8e9c421268 - phn - 01971819084 - 20-12-2022 off 20-01-2023
 rabiul - sell 1000  - key - ghtyfd - id - fe4ac89c09006bb8bbaccb8e9c421268 - phn -  - 23-12-2022 off 23-01-2023
 shaikat - sell mail 150 - key - hgjyth - id - fa1cb2dfa46b945c8d273c585af66c3b - phn - 01409712622  - 23-12-2022 off 23-01-2023
-shahin - sell mail 75  - key - hjythg - id - 6b269c9230defd91e244ebf4ec718ee3 - phn - 01303289465 - 23-12-2022 off 23-01-2023
 jony - frx - key- hjyfgh - jony - id - fe4ac89c09006bb8bbaccb8e9c421268                                                                                        jony 
 jihad - frx key - hjygfh - id-a03af2da265796b5ce5ed0a6c51fdd3a - phn - 01316014997 - 24-12-2022- off - 24-01-2023                     30 days                  jony
 habib - sell 500 - key - hjyfgj - id - db35a698002e40ceb1a99e4c602913e3 - phn - 01581090482 - 24-12-2022  off 24-01-2023
