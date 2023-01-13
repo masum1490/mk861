@@ -26,7 +26,6 @@ istiack - sell mail 150 - key - hgjyds - id - dc415c3dff14518568fd2daea9d93d91 -
 babu2 - sell 1000   - key - sdfgfd - id - 15c6c52fdb2c08a549e2f825baaabefd - phn - 01763517489 - 28-12-2022 off 28-01-2023
 limon - frx - key - hjytds - id - e444de50d1459900a7e78f19c6930a6a - phn - 01621848981 - 28-12-2022 off 04-01-2023                    30 days                  jony  
 Mehedi - frx  - key - pghfgf - id - fe4ac89c09006bb8bbaccb8e9c421268 - phn - 01873581401 - 29-12-2022 off 05-01-2023                  30 days                  jony
-megh - sell 500 - key - megh - id - dcead138a7e26f584d7e06d3cfed93d6 - phn - 01953474757 - 29-12-2022 off 13-01-2023                  15 days
 ovi - sell 1000   - key - gjhytd - id - 133cc69bbe5e2cda4c13a5710568c56e - phn - 01735665887 - 30-12-2022 off 30-01-2023 
 hera - sell 1000   - key - uyijff - id - 70aef0792feb056c5dde53fecebb214a - phn - 01867058535 - 02-01-2022 off 02-01-2023
 tushar - sell 1000 - key - jkydds - id - fe4ac89c09006bb8bbaccb8e9c421268 - phn -  - 24-12-2022  off 24-01-2023
