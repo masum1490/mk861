@@ -52,7 +52,7 @@ arif - sell 1000 - key - ikleas - id - 2e7256aecee0ac7bede564e6886b30d9 - phn - 
 razu - sell 1000 - key - ikjhfd - id - a30461d4163c56c3d40e68cf4b232450 - phn - 01303342451 - 16-01-2023 off 16-02-2023
 alamin2 - sell mail 106  - key - uyklas - id - 5e76651910d2d4e551e1b32d167b6fee - phn -  - 17-01-2023 off 117-02-2023
 salim - frx - key - olshda - id - fe4ac89c09006bb8bbaccb8e9c421268 - phn - 01774937983 - 18-01-2023 off 18-02-2023                        30 days          jony
- - sell  - key -  - id -  - phn -  - 04-01-2023 off 12-02-2023
+faruk - sell 1000 - key - lkyfds - id - 93cc23b524ff51868ba59feb1d196d75 - phn - 01777176206 - 20-01-2023 off 20-02-2023
  - sell  - key -  - id -  - phn -  - 04-01-2023 off 12-02-2023
  - sell  - key -  - id -  - phn -  - 04-01-2023 off 12-02-2023
  - sell  - key -  - id -  - phn -  - 04-01-2023 off 12-02-2023
