@@ -11,9 +11,6 @@ mim5 - id - cb47e61e9791ed73a8d299a6bb2e901c - 19-01-2023
 
 mim10 - id - 0ec8b4252232dadb3ea958df5cb1bac7 - 12-01-2023
 mim11 - id - 3a1a97c006b774a99cff4957bc82bea4 - 13-01-2023
-chadni - sell 1000  - key - jyghjf - id - 95a4f150bd26c476aea77747a00da89e - phn -  - 20-12-2022 off 20-01-2023
-baizid - sell 1000 - key - jkuhgg - id - 0099d29478c38e5271e922b56371befc - phn - 01793860006 - 20-12-2022 off 20-01-2023
-farhan - sell mmail 150 - key - uiikgh - id - fe4ac89c09006bb8bbaccb8e9c421268 - phn - 01971819084 - 20-12-2022 off 20-01-2023
 rabiul - sell 1000  - key - ghtyfd - id - fe4ac89c09006bb8bbaccb8e9c421268 - phn -  - 23-12-2022 off 23-01-2023
 shaikat - sell mail 150 - key - hgjyth - id - fa1cb2dfa46b945c8d273c585af66c3b - phn - 01409712622  - 23-12-2022 off 23-01-2023
 jony - frx - key- hjyfgh - jony - id - fe4ac89c09006bb8bbaccb8e9c421268                                                                                        jony 
